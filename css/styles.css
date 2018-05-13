@@ -1,0 +1,219 @@
+@font-face {
+    font-family: HelveticaNeueLTPro-Bd;
+    src: url(HelveticaNeueLTPro-Bd.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: HelveticaNeueLTPro-BdCn;
+    src: url(HelveticaNeueLTPro-BdCn.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: HelveticaNeueLTPro-Roman;
+    src: url(HelveticaNeueLTPro-Roman.otf);
+    font-weight: bold;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#taskbackground
+{
+    left: 0px;
+    top: 0px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 710px;
+    height: 140px;
+    overflow: hidden;
+    z-index:0;
+}
+
+#Rectangle-7321
+{
+    left: 0%;
+    top: 0%;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    z-index:1;
+}
+
+#Rectangle-732
+{
+    left: 74.6478%;
+    top: 0%;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    z-index:2;
+}
+
+#shutterstock_247297201
+{
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index:3;
+}
+
+.btn
+{
+    font-size: 18px;
+    left: 78.8732%;
+    top: 19.2857%;
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    background:transparent url('../images/Rounded-Rectangle-2.png') no-repeat;
+    overflow: hidden;
+    border: 0;
+    z-index:4;
+}
+
+#nfl{
+    font-family: "HelveticaNeueLT Pro 57 Cn", sans-serif;
+    left: 169px;
+    top: 70px;
+    position: absolute;
+    color: #fee801;
+    font-weight: 100;
+    font-size: 21px;
+    margin: 0 0;
+    z-index: 5;
+}
+
+#hurry{
+    font-family: "HelveticaNeueLT Pro 57 Cn", sans-serif;
+    left: 169px;
+    top: 100px;
+    position: absolute;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 15px;
+    margin: 0 0;
+    z-index: 5;
+}
+
+#remaining{
+    font-family: "HelveticaNeueLT Pro 57 Cn", sans-serif;
+    left: 405px;
+    top: 20px;
+    position: absolute;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 13px;
+    margin: 0 0 20px;
+    z-index: 5;
+}
+
+#toplace{
+    font-family: "HelveticaNeueLT Pro 57 Cn", sans-serif;
+    left: 405px;
+    top: 36px;
+    position: absolute;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 13px;
+    margin: 0 0 20px;
+    z-index: 5;
+}
+
+#trusted{
+    font-family: "HelveticaNeueLT Pro 57 Cn", sans-serif;
+    left: 598px;
+    top: 89px;
+    position: absolute;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 13px;
+    margin: 0 0 20px;
+    z-index: 5;
+}
+
+#sports{
+    font-family: "HelveticaNeueLT Pro 57 Cn", sans-serif;
+    left: 571px;
+    top: 102px;
+    position: absolute;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 13px;
+    margin: 0 0 20px;
+    z-index: 5;
+}
+
+#Shape816_days
+{
+    left: 325px;
+    top: 10px;
+    position: absolute;
+    z-index: 11;
+}
+
+#Shape816_hours
+{
+    left: 273px;
+    top: 10px;
+    position: absolute;
+    z-index:12;
+}
+
+#Shape816_min
+{
+    left: 221px;
+    top: 10px;
+    position: absolute;
+    z-index:13;
+}
+
+#Shape816_sec
+{
+    left: 169px;
+    top: 10px;
+    position: absolute;
+    z-index:14;
+}
+
+#clockdiv{
+    font-family: sans-serif;
+    left: 169px;
+    top: 10px;
+    position: absolute;
+    padding: 0 10px 0 5px;
+    color: #fff;
+    display: inline-block;
+    font-weight: 100;
+    text-align: center;
+    font-size: 24px;
+    z-index:15;
+}
+
+
+#clockdiv > div{
+    padding: 0 7px 0 7px;
+    display: inline-block;
+    z-index:16;
+}
+
+#clockdiv div > span{
+    display: inline-block;
+    z-index:17;
+}
+
+.smalltext{
+    padding-top: 5px;
+    font-size: 10px;
+    z-index:18;
+}
